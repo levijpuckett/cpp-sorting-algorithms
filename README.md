@@ -7,6 +7,7 @@ GLUT is used to display the sorting process on screen.
 
 The following video describes the program in more detail:
 
+[![Video Presentation](https://img.youtube.com/vi/00L-4fra4Fg/0.jpg)](https://www.youtube.com/watch?v=00L-4fra4Fg)
 
 
 ## Building
