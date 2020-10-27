@@ -18,6 +18,7 @@ To build the project, navigate to the top level of the repo, and use the followi
 
 Where INSTALL_DIRECTORY is the directory into which this software is to be installed.
 
+### Demonstration
 To run a demonstration of this software, run the following command:
 
     $INSTALL_DIR/bin/demo
