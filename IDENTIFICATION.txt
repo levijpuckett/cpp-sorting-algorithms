@@ -1,7 +1,0 @@
-name "Levi Puckett"
-student_id "V00840602"
-email "levijp@uvic.ca"
-term "2020-05"
-course "SENG475"
-section "T01"
-assignment "cpp_project"
