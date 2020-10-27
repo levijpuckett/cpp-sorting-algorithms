@@ -25,8 +25,14 @@ To run a demonstration of this software, run the following command:
 
 ## Hints
 The command line option --shuffle/-s allows the user to change the way the array is shuffled before it is sorted.
+
 Valid options include:
+
     random : randomly shuffled.
+    
     reverse : ordered, reversed array.
+    
     half : half of the array is randomly shuffled.
+    
     almost_sorted : the array is nearly sorted.
+    
