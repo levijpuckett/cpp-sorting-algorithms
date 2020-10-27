@@ -1,0 +1,8 @@
+#! /usr/bin/env bash
+
+cmd_dir=$(dirname "$0")
+
+sorting_visualizer_program="$cmd_dir/sorting_visualizer"
+
+echo "Running visualizer demo"
+$sorting_visualizer_program
