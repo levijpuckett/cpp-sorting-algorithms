@@ -1,7 +1,7 @@
-README
-
+# C++ Sorting Algorithm Visualizer
 This repository contains a sorting algorithm visualizer.
 
+## Building
 To build the project, navigate to the top level of the repo, and use the following commands:
 
     cmake -H. -Btmp_cmake -DCMAKE_INSTALL_PREFIX=$INSTALL_DIRECTORY
@@ -13,6 +13,7 @@ To run a demonstration of this software, run the following command:
 
     $INSTALL_DIR/bin/demo
 
+## Hints
 The command line option --shuffle/-s allows the user to change the way the array is shuffled before it is sorted.
 Valid options include:
     random : randomly shuffled.
